@@ -1,0 +1,75 @@
+buy tv
+tcl
+tvs
+tv price
+17 inch
+smart tv
+20 inch
+Blaupunkt
+led tv
+lcd tv price
+full hd tv
+led tv price
+best led tv
+32 inch smart tv
+42 inch smart tv
+samsung 32 inch smart tv
+xiaomi smart tv
+mi tv 32 inch
+flipkart tv
+mi smart tv
+4k hdr tv
+[TV discount 40%]
+'TV discount 40%'
++TV +discount +40%
+[TV discount 50%]
+'TV discount 50%'
++TV +discount +50%
+[TV discount 60%]
+'TV discount 60%'
++TV +discount +60%
+[TV less than 25,000₹]
+'TV less than 25,000₹'
++TV +less +than +25,000₹
+[TV big discount]
+'TV big discount'
++TV +big +discount
+[TV cheap]
+'TV cheap'
++TV +cheap
+[TV 20,000₹]
+'TV 20,000₹'
++TV +20,000₹
+[TV buy]
+'TV buy'
++TV +buy
+[TV safe money]
+'TV safe money'
++TV +safe +money
+[electronic TV discount 40%]
+'electronic TV discount 40%'
++electronic +TV +discount +40%
+[electronic TV discount 50%]
+'electronic TV discount 50%'
++electronic +TV +discount +50%
+[electronic TV discount 60%]
+'electronic TV discount 60%'
++electronic +TV +discount +60%
+[electronic TV less than 25,000₹]
+'electronic TV less than 25,000₹'
++electronic +TV +less +than +25,000₹
+[electronic TV big discount]
+'electronic TV big discount'
++electronic +TV +big +discount
+[electronic TV cheap]
+'electronic TV cheap'
++electronic +TV +cheap
+[electronic TV 20,000₹]
+'electronic TV 20,000₹'
++electronic +TV +20,000₹
+[electronic TV buy]
+'electronic TV buy'
++electronic +TV +buy
+[electronic TV safe money]
+'electronic TV safe money'
++electronic +TV +safe +money
