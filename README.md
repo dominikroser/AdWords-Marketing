@@ -27,3 +27,42 @@ Following questions were answered (answers see report)
 4) What roles does the resolution of TV play?
 Based on that different product segments were identified
 
+## Grouping 🧑‍🤝‍🧑
+Based on the EDA and spending behavior we derive four groups. Each group will
+receive later on a dedicated campaign. Even though there are customers for devices in
+between those four groups help to simplify a mutual exclusive approach.
+
+1) High endprice/High tech
+2) Samsung fans
+3) Casual user
+4) low price
+
+## Keywords 💻
+
+To find the best keywords based on the attributes of TV screen given so far, Python is
+used with the library “advertools”. Each of the 4 groups receives an own table of
+keywords including the following elements.
+1. Products (list of products)
+2. Words that indicate if someone wants to buy or learn
+3. Maximum lens tells if words should be combined
+4. Campaign name as name of the campaign
+5. Match of keyword and entry of customer (phrase, match, build)
+6. Keywords as a combination of products and words
+
+The keywords of the table are introduced in the next step within Google Ad Words to
+have a first match and iterate on the suggestion of Google Ad Words itself.
+
+## Google Adwords
+
+After keywords have been created Google Ad words was used to create the respective
+campaigns. For all the campaigns the goal was to increase the website traffic first.
+Potential other actions like sales, leads or brand awareness, other functions of Google
+11
+Ad Words, were not realized in this stage due to the inexperience of Vijay Sales with
+Ad words and the need to test it out first.
+Furthermore it was also decided to limit the campaign type to “Search” for the same
+reasons.
+All campaigns were set between 16th Oct and 16th November which is the month
+before Diawli, where most of the user are likely to shop. The display time for group 1
+and 2 was limited to the evening 6pm and midnight as they are likely to work longer
+than customers from group 3 and 4, who would already receive ads starting at 3 pm.
